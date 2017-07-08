@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/viktorRock/PWA.git"
+    "url": "https://github.com/viktorRock/Socket.io-Chats"
   },
   "keywords": [
     "PWA",
@@ -17,9 +17,9 @@
   "author": "Paulo Victor Mathias Silva",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/viktorRock/PWA/issues"
+    "url": "https://github.com/viktorRock/Socket.io-Chats/issues"
   },
-  "homepage": "https://github.com/viktorRock/PWA#readme",
+  "homepage": "https://github.com/viktorRock/Socket.io-Chats#readme",
   "dependencies": {
     "express": "^4.15.2",
     "require": "^2.4.20",
