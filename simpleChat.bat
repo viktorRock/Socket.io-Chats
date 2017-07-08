@@ -1,0 +1,3 @@
+echo npm install
+cmd
+

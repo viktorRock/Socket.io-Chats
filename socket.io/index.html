@@ -25,7 +25,14 @@
 <script src="https://code.jquery.com/jquery-1.11.1.js"></script>
 <script>
   $(function () {
-    var socket = io();
+
+
+    var socket = io('8001');
+    
+    // var s = new io.connect('http://' + window.location.hostname + ':8002', {
+    //   rememberTransport: false
+    // });
+
     $('form').submit(function(){
       socket.emit('chat message', $('#m').val());
       $('#m').val('');
