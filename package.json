@@ -1,0 +1,28 @@
+{
+  "name": "1-12-skeleton",
+  "version": "1.0.0",
+  "description": "chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktorRock/PWA.git"
+  },
+  "keywords": [
+    "PWA",
+    "weather"
+  ],
+  "author": "Paulo Victor Mathias Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktorRock/PWA/issues"
+  },
+  "homepage": "https://github.com/viktorRock/PWA#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "require": "^2.4.20",
+    "socket.io": "^2.0.3"
+  } 
+}
